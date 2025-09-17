@@ -141,8 +141,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hdriTextures:
+  - {fileID: 2800000, guid: 164986f907b3b4649a4234ddd0dc66b0, type: 3}
+  - {fileID: 2800000, guid: 0bf66feefd7f0754faa6d19eff5c2166, type: 3}
   - {fileID: 2800000, guid: 588f4b01e0c1c83479b1a19f8c06f101, type: 3}
-  - {fileID: 2800000, guid: df7a845a696aa2c4d9c95c21700c1943, type: 3}
+  - {fileID: 2800000, guid: 7963b0325eabe874aa08d2d23fbea3ae, type: 3}
+  - {fileID: 2800000, guid: 9ab3a0e0761239741a8e498bed0203a8, type: 3}
   sphereMaterial: {fileID: 2100000, guid: b02bf49420df28349b8f4495ed6012eb, type: 2}
 --- !u!1001 &1195862003
 PrefabInstance:
